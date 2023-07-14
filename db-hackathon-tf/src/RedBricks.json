@@ -44,7 +44,7 @@
         {
             "confidence": 0.5,
             "id": "1",
-            "mentionText": "Germany\n",
+            "mentionText": "",
             "pageAnchor": {
                 "pageRefs": [
                     {
@@ -72,7 +72,7 @@
                 ]
             },
             "textAnchor": {
-                "content": "Germany\n",
+                "content": "",
                 "textSegments": [
                     {
                         "endIndex": "52",
@@ -126,7 +126,7 @@
         {
             "confidence": 0.5,
             "id": "3",
-            "mentionText": "This guarantee shall expire, even if this document is not returned, on 20. December 2035,\nand shall then be null and void, if and to the extent that no demand under this guarantee in\naccordance with its conditions has reached us in Frankfurt by the end of that day.",
+            "mentionText": "20. December 2035",
             "pageAnchor": {
                 "pageRefs": [
                     {
@@ -154,7 +154,7 @@
                 ]
             },
             "textAnchor": {
-                "content": "This guarantee shall expire, even if this document is not returned, on 20. December 2035,\nand shall then be null and void, if and to the extent that no demand under this guarantee in\naccordance with its conditions has reached us in Frankfurt by the end of that day.",
+                "content": "20. December 2035",
                 "textSegments": [
                     {
                         "endIndex": "1927",
